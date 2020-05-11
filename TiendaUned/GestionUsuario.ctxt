@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=GestionUsuario
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ GestionUsuario\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=sueldoBase\ horasExtras\ tipoIRPF\ casado\ numeroHijos\ nombre\ apellidos\ dni\ sexo\ edad\ direccion\ telefono
+comment1.target=GestionUsuario(double,\ int,\ double,\ char,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ char,\ int,\ java.lang.String,\ int)
+comment2.params=correo
+comment2.target=void\ setcorreo(java.lang.String)
+comment3.params=ficha_cliente
+comment3.target=void\ setficha_cliente(int)
+comment4.params=
+comment4.target=java.lang.String\ getcorreo()
+comment5.params=
+comment5.target=int\ getficha_cliente()
+numComments=6

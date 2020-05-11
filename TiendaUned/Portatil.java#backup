@@ -1,0 +1,68 @@
+
+/**
+ * Write a description of class Otorre here.
+ * 
+ * @author (your name) 
+ * @version (a version number or a date)
+ */
+public class Portatil extends Informatica
+{
+    // instance variables - replace the example below with your own
+    String ID;
+    double nucleos;
+    double ram;
+    double disco;
+    double precio;
+
+    void setID (String id)
+    {
+        ID =id;
+    }
+    void setNucleos (double Nucleos)
+    {
+        nucleos= Nucleos;
+    }
+    void setRam (double Ram)
+    {
+        ram = Ram;
+    }
+    void setDisk (double Disco)
+    {
+        disco = Disco;
+    }
+    void setPrecio (double Precio)
+    {
+        precio = Precio;
+    }
+
+    String getID()
+    {
+        return ID;
+    }
+    double getNucleos()
+    {
+        return nucleos;
+    }
+    double getRam()
+    {
+        return ram;
+    }
+    double getDisco()
+    {
+        return disco;
+    }
+    double getPrecio()
+    {
+        return precio;
+    }
+
+    void displayComputer()
+    {
+        System.out.println("Portatil ID: " + getID());
+        System.out.println("Procesador Speed: " + getNucleos());
+        System.out.println("RAM: " + getRam());
+        System.out.println("Disco duro: " + getDisco());
+        System.out.println("Precio: " + getPrecio());
+    }
+    
+}

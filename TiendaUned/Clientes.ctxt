@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Clientes
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Clientes\ here.\r\n\ \r\n\ @author\ (Consuelo\ Alejandra\ Pinto\ Toro)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nombre\ apellidos\ dni\ sexo\ edad\ direccion\ telefono
+comment1.target=Clientes(java.lang.String,\ java.lang.String,\ java.lang.String,\ char,\ int,\ java.lang.String,\ int)
+comment10.params=
+comment10.target=boolean\ isConcedida_financiacion()
+comment11.params=
+comment11.target=void\ MostrarDatos()
+comment2.params=ID\ ultima_nomina\ solicita_financiacion\ concedida_financiacion\ nombre\ apellidos\ dni\ sexo\ edad\ direccion\ telefono
+comment2.target=Clientes(java.lang.String,\ int,\ boolean,\ boolean,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ char,\ int,\ java.lang.String,\ int)
+comment3.params=ID
+comment3.target=void\ setID(java.lang.String)
+comment4.params=ultima_nomina
+comment4.target=void\ setUltima_nomina(int)
+comment5.params=solicita_financiacion
+comment5.target=void\ setSolicita_financiacion(boolean)
+comment6.params=concedida_financiacion
+comment6.target=void\ setConcedida_financiacion(boolean)
+comment7.params=
+comment7.target=java.lang.String\ getID()
+comment8.params=
+comment8.target=int\ getUltima_nomina()
+comment9.params=
+comment9.target=boolean\ isSolicita_financiacion()
+numComments=12

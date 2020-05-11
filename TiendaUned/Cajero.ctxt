@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Cajero
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Caja\ here.\r\n\ \r\n\ @author\ (Consuelo\ Alejandra\ Pinto\ Toro)\ \r\n\ @version\ (21_04_2018)\r\n
+comment1.params=productos\ cajero\ Cliente\ sueldoBase\ horasExtras\ tipoIRPF\ casado\ numeroHijos\ nombre\ apellidos\ dni\ sexo\ edad\ direccion\ telefono
+comment1.target=Cajero(Producto[],\ double,\ boolean,\ double,\ int,\ double,\ char,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ char,\ int,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=Producto[]\ cargarProductos()
+comment3.params=productos
+comment3.target=void\ mostrarProductos(Producto[])
+comment4.params=productos
+comment4.target=void\ mostrarNombreProductos(Producto[])
+comment5.params=productos\ num\ cantidadUnidades
+comment5.target=double\ comprarProducto(Producto[],\ int,\ int)
+comment6.params=
+comment6.target=double\ mostrarCaja()
+numComments=7
